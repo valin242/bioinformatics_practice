@@ -1,2 +1,2 @@
 # bioinformatics_practice
-Contains workbook for practicing bioinformatics tutorials found online.
+Using a cancer data set to classify leukemia vs non-leukemia cancers
